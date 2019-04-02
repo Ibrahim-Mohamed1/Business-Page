@@ -1,6 +1,6 @@
 An app created with HTML and CSS designed to illustrate functionality and layout of a potential business page.
 
-Hosted at: *coming Soon
+Hosted at: *coming Soon*
 
 # Business-Page
 
